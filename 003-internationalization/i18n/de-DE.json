@@ -1,0 +1,5 @@
+{
+    "greetTo": "Hallo {name}",
+    "test": "Dies ist eine Testnachricht",
+    "title": "Internationalization Beispiel"
+}
