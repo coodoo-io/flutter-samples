@@ -36,7 +36,7 @@ $ cd flutter-samples/006-stack
 $ flutter run
 ```
 
-#### Snackbars in Flutter gestalten - [Artikel](https://flutter.de/artikel/artikel/snackbars-flutter-gestalten.html)
+### Snackbars in Flutter gestalten - [Artikel](https://flutter.de/artikel/artikel/snackbars-flutter-gestalten.html)
 Snackbars werden meist verwendet, um kürzlich getätigte Aktionen zu bestätigen, bevorstehende Aktionen anzukündigen oder auf Fehler aufmerksam zu machen.
 
 ```bash
@@ -45,7 +45,7 @@ $ cd flutter-samples/005-snackbar
 $ flutter run
 ```
 
-#### 004 - Floating-Action-Button in Flutter - [Artikel](https://flutter.de/artikel/artikel/lfloating-action-button-flutter.html)
+### 004 - Floating-Action-Button in Flutter - [Artikel](https://flutter.de/artikel/artikel/lfloating-action-button-flutter.html)
 Der Floating Action Button als wichtiges Element um einem User schnell den Einstieg in verschiedene Aktionen zu geben.
 
 ```bash
@@ -54,7 +54,7 @@ $ cd flutter-samples/004-floating-action-button
 $ flutter run
 ```
 
-#### 003 - Internationalization in Flutter - [Artikel](https://flutter.de/artikel/artikel/leichte-internationalization-in-flutter.html)
+### 003 - Internationalization in Flutter - [Artikel](https://flutter.de/artikel/artikel/leichte-internationalization-in-flutter.html)
 Internationalisierung der App über verschiedenen Sprachbundles in Flutter. 
 
 ```bash
@@ -63,7 +63,7 @@ $ cd flutter-samples/003-internationalization
 $ flutter run
 ```
 
-#### 002 - Bottom sheet modals in Flutter - [Artikel](https://flutter.de/artikel/artikel/bottom-sheet-modals-in-flutter.html)
+### 002 - Bottom sheet modals in Flutter - [Artikel](https://flutter.de/artikel/artikel/bottom-sheet-modals-in-flutter.html)
 Bottom sheet modals sind ein verbreitetes Element, da sie dem User eine Auswahl an Dingen geben, die leicht mit dem Daumen zu erreichen sind.
 
 ```bash
@@ -72,7 +72,7 @@ $ cd flutter-samples/002-bottom-sheet
 $ flutter run
 ```
 
-#### 001 - Die Statusbar Farbe ändern - [Artikel](https://flutter.de/artikel/flutter-statusbar-farbe-%C3%A4ndern.html)
+### 001 - Die Statusbar Farbe ändern - [Artikel](https://flutter.de/artikel/flutter-statusbar-farbe-%C3%A4ndern.html)
 Ab und möchte man die Farbe der Statusbar ändern weil sie dann besser ins Design passt. Hier wird gezeigt wie es am einfachsten umzusetzen ist.
 
 ```bash
