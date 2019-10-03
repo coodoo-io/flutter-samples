@@ -5,6 +5,15 @@ Um die Beispiele zu starten musst du deine Entwicklungsumgebung und Mobile Devic
 
 ## Beispiele
 
+### 009 - Counter with Change Notifier Provider
+Das Standard Beispiel von Flutter nur angereichert um einem Provider und einer Detailseite. Der Zählerstand wird im Provider gehalten und wird zusätzlich im Title und auf der Detailseite angezeigt.
+
+```bash
+$ git clone https://github.com/coodoo-io/flutter-samples.git
+$ cd flutter-samples/009-counter-with-provider
+$ flutter run
+```
+
 ### 008 - Hero-Widget in Flutter - [Artikel](https://flutter.de/artikel/artikel/hero-widget-flutter.html)
 Was ist das Hero Widget und wie kann man es verwenden?
 

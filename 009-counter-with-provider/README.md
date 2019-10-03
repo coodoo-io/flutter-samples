@@ -1,16 +1,20 @@
-# counter_with_provider
+# Counter with Change Notifier Provider
 
-A new Flutter project.
+Das Standard Beispiel von Flutter nur angereichert um einem Provider und einer Detailseite. Der Zählerstand wird im Provider gehalten und wird zusätzlich im Title und auf der Detailseite angezeigt.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Flutter installieren
 
-A few resources to get you started if this is your first Flutter project:
+    Wenn du Flutter noch nicht eingerichtet hast kannst du dir [hier](https://flutter.de/artikel/flutter-entwicklungsumgebung-einrichten.html) einen hilfreichen Artikel dazu ansehen.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Repo via Terminal klonen
+```bash
+$ git clone https://github.com/coodoo-io/flutter-samples.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. In den erstellten Ordner gehen und die App starten
+```bash
+$ cd flutter-samples/009-counter-with-provider
+$ flutter run
+```

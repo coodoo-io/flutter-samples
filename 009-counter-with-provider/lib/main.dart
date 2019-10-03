@@ -58,8 +58,6 @@ class IncrementCounterButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return FloatingActionButton(
       onPressed: () {
-        // `listen: false` is specified here because otherwise that would make
-        // `IncrementCounterButton` rebuild when the counter updates.
         Provider.of<Counter>(context, listen: false).increment();
       },
       tooltip: 'Increment',
