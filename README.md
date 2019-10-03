@@ -3,10 +3,6 @@
 Alle Tutorials mit zusätzlichen Code Beispielen und weitere Artikel rund um Flutter kannst auf der [Flutter.de](https://flutter.de) Seite finden.<br/>
 Um die Beispiele zu starten musst du deine Entwicklungsumgebung und Mobile Devices vorher eingerichtet haben. [Eine Anleitung dazu findest du hier](https://flutter.de/artikel/flutter-entwicklungsumgebung-einrichten.html).
 
-## Beispiele auschecken und testen
-Um die Beispiele auszuprobieren eifnach dieses Repo clonen und im entsprechenden Beispielverzeichnis flutter run ausführen.
-
-
 ## Beispiele
 
 ### 008 - Hero-Widget in Flutter - [Artikel](https://flutter.de/artikel/artikel/hero-widget-flutter.html)
