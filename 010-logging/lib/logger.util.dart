@@ -5,9 +5,10 @@ Logger getLogger() {
   // Bis dahin deaktiviert.
   return Logger(
     printer: PrettyPrinter(
-      lineLength: 160, colors: false, methodCount: 1,
-      // methodCount: 1,
-      // errorMethodCount: 5,
+      lineLength: 160,
+      colors: false,
+      methodCount: 1,
+      errorMethodCount: 5,
     ),
   );
 }

@@ -5,7 +5,7 @@ import 'package:logging_with_flutter/logger.util.dart';
 
 void main() {
   // Logger: Wählen welches Level angezeigt werden soll.
-  Logger.level = Level.verbose;
+  Logger.level = Level.debug;
   runApp(MyApp());
 }
 
