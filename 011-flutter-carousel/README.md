@@ -1,6 +1,6 @@
 # hero widget
 
-Ein Flutter Projekt welches ein Beispiel für die verwendung von Hero Widgets ist. Der dazugehörige Beitrag ist auf [Flutter.de](https://flutter.de/artikel/flutter-carousel.html) zu finden.
+Das Flutter Beispiel Projekt für die Verwendung von dem FlutterCarousel Widget ist. Der dazugehörige Artikel ist auf [Flutter.de](https://flutter.de/artikel/flutter-carousel.html) zu finden.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Ein Flutter Projekt welches ein Beispiel für die verwendung von Hero Widgets is
 
 2. Repo via Terminal klonen
 ```bash
-$ git clone https://github.com/coodoo-io/flutter-samples/tree/master/011-flutter-carousel.git
+$ git clone https://github.com/coodoo-io/flutter-samples
 ```
 
 3. In den erstellten Ordner gehen und die App starten
