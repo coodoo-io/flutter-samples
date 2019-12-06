@@ -1,4 +1,4 @@
-# hero widget
+# Carousel flutter widget
 
 Das Flutter Beispiel Projekt für die Verwendung von dem FlutterCarousel Widget ist. Der dazugehörige Artikel ist auf [Flutter.de](https://flutter.de/artikel/flutter-carousel.html) zu finden.
 
