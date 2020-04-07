@@ -10,7 +10,7 @@ Eine Einführung in die Erstellung von Formularen in Flutter.
 
 ```bash
 $ git clone https://github.com/coodoo-io/flutter-samples.git
-$ cd flutter-samples/forms_012
+$ cd flutter-samples/012-flutter-forms
 $ flutter run
 ```
 
